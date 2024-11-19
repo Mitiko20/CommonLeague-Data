@@ -1,0 +1,9 @@
+mysql-connector-python
+mysql
+uvicorn
+fastapi
+pydantic
+requests
+openai
+re
+json
